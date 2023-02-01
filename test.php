@@ -1,8 +1,8 @@
 <?php
 $a = true;
 
-if($a) {
+if($a){
     print "aaa";
-} else {
+}else{
     print "bbb";
 }
